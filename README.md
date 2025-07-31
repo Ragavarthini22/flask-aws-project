@@ -20,4 +20,4 @@ sudo python3 app.py
 
 Visit: `http://<your-ec2-ip>` to see the app.
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.PNG)
